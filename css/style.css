@@ -1,0 +1,73 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.head {
+    text-align: center;
+}
+
+.head img {
+    width: 250px;
+    height: auto;
+    margin-top: 20px;
+}
+
+hr {
+    color: #4d4a4a2e;
+}
+
+.body-section {
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.body-section h1 {
+    color: #737373;
+}
+
+.first {
+    color: #3174F1;
+}
+
+.second {
+    color: #E63125;
+}
+
+.third {
+    color: #249A41;
+}
+
+.fourth {
+    color: #F6AD01;
+}
+
+.budget h2 {
+    font-size: 40px;
+    color: #000000;
+}
+
+.budget p {
+    font-size: 18px;
+    color: #737373;
+}
+
+.box {
+    width: 100%;
+    height: 300px;
+    background: #0BA26D;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.box h2 {
+    color: #ffffff;
+    font-size: 83px;
+    text-align: center;
+    padding: 56px 40px;
+
+}
